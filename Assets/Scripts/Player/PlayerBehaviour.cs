@@ -194,7 +194,7 @@ public class PlayerBehaviour : MonoBehaviour
             if (jumpPressing && canJump)
             {
                 rigi.velocity = new Vector2(rigi.velocity.x, jumpSpeed);
-                if (jumpSec < jumpDurationTime)
+                /*if (jumpSec < jumpDurationTime)
                 {
                     jumpSec += Time.deltaTime;
                 }
@@ -202,7 +202,11 @@ public class PlayerBehaviour : MonoBehaviour
                 {
                     jumpCurrentTimes++;
                     canJump = false;
-                }
+                }*/
+                TimerUtil.ExecuteAfterSec(jumpDurationTime, 
+                    delegate () {
+                        canJump = false;
+                    });
             }
         }
     }

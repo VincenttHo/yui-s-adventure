@@ -259,7 +259,7 @@ MonoBehaviour:
   rigi: {fileID: 0}
   runSpeed: 8
   jumpSpeed: 12
-  jumpDurationTime: 0.1
+  jumpDurationTime: 0.15
   jumpMaxTimes: 2
   groundCheckPointGroup: {fileID: 386656189338791706}
   whatIsGround:
