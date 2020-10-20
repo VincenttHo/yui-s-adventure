@@ -1,0 +1,989 @@
+fileFormatVersion: 2
+guid: 9fff569e675bb634484454fe99a6e88c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1639106739849220971
+    second: ModelZX_Slash_0
+  - first:
+      213: -3040620304951058850
+    second: ModelZX_Slash_1
+  - first:
+      213: -4561696528392627848
+    second: ModelZX_Slash_2
+  - first:
+      213: -6719461579427582098
+    second: ModelZX_Slash_3
+  - first:
+      213: 5250737546421221853
+    second: ModelZX_Slash_4
+  - first:
+      213: -7037828090332550641
+    second: ModelZX_Slash_5
+  - first:
+      213: -2909427476676884731
+    second: ModelZX_Slash_6
+  - first:
+      213: 753532945069220502
+    second: ModelZX_Slash_7
+  - first:
+      213: -4968023681189179408
+    second: ModelZX_Slash_8
+  - first:
+      213: -3013860568160957469
+    second: ModelZX_Slash_9
+  - first:
+      213: -2038611093421049083
+    second: ModelZX_Slash_10
+  - first:
+      213: -4059032269526574152
+    second: ModelZX_Slash_11
+  - first:
+      213: 1513136066318351314
+    second: ModelZX_Slash_12
+  - first:
+      213: -8197956652005912737
+    second: ModelZX_Slash_13
+  - first:
+      213: 7034297466289345481
+    second: ModelZX_Slash_14
+  - first:
+      213: -3949004790356074705
+    second: ModelZX_Slash_15
+  - first:
+      213: -5574465820017792561
+    second: ModelZX_Slash_16
+  - first:
+      213: 80017176547249034
+    second: ModelZX_Slash_17
+  - first:
+      213: 7027886130981134114
+    second: ModelZX_Slash_18
+  - first:
+      213: -2093863036662797304
+    second: ModelZX_Slash_19
+  - first:
+      213: 9182904623579573259
+    second: ModelZX_Slash_20
+  - first:
+      213: 4941994680199691096
+    second: ModelZX_Slash_21
+  - first:
+      213: -8737818754220793297
+    second: ModelZX_Slash_22
+  - first:
+      213: -3198067469856826766
+    second: ModelZX_Slash_23
+  - first:
+      213: -5284812747737364613
+    second: ModelZX_Slash_24
+  - first:
+      213: -2813513824273145059
+    second: ModelZX_Slash_25
+  - first:
+      213: 7324762803575029552
+    second: ModelZX_Slash_26
+  - first:
+      213: -3975017736392557340
+    second: ModelZX_Slash_27
+  - first:
+      213: 1131231328672964510
+    second: ModelZX_Slash_28
+  - first:
+      213: -5922330143481560359
+    second: ModelZX_Slash_29
+  - first:
+      213: 5739213935073809355
+    second: ModelZX_Slash_30
+  - first:
+      213: 4367214777200791286
+    second: ModelZX_Slash_31
+  - first:
+      213: 4813180473609660082
+    second: ModelZX_Slash_0
+  - first:
+      213: 4919324497131561696
+    second: ModelZX_Slash_1
+  - first:
+      213: 5846903347444368699
+    second: ModelZX_Slash_2
+  - first:
+      213: -5406593016889776389
+    second: ModelZX_Slash_3
+  - first:
+      213: -421006141167168958
+    second: ModelZX_Slash_4
+  - first:
+      213: 2551857947374797757
+    second: ModelZX_Slash_5
+  - first:
+      213: -5148353729913642738
+    second: ModelZX_Slash_6
+  - first:
+      213: 4520801509876863745
+    second: ModelZX_Slash_7
+  - first:
+      213: 3363053039401516389
+    second: ModelZX_Slash_8
+  - first:
+      213: 3789032469991809427
+    second: ModelZX_Slash_9
+  - first:
+      213: 566991867988114890
+    second: ModelZX_Slash_10
+  - first:
+      213: 963657036454850707
+    second: ModelZX_Slash_11
+  - first:
+      213: 8691175307813244176
+    second: ModelZX_Slash_12
+  - first:
+      213: 1335166703320924648
+    second: ModelZX_Slash_13
+  - first:
+      213: -1792950392654615282
+    second: ModelZX_Slash_14
+  - first:
+      213: 4115526844975470050
+    second: ModelZX_Slash_15
+  - first:
+      213: 7201865041366630723
+    second: ModelZX_Slash_16
+  - first:
+      213: 2860032057323108341
+    second: ModelZX_Slash_17
+  - first:
+      213: -7962675303951272769
+    second: ModelZX_Slash_18
+  - first:
+      213: 9095223132396241652
+    second: ModelZX_Slash_19
+  - first:
+      213: 5681268500475634044
+    second: ModelZX_Slash_20
+  - first:
+      213: -1819876597891494710
+    second: ModelZX_Slash_21
+  - first:
+      213: -6749041291757172239
+    second: ModelZX_Slash_22
+  - first:
+      213: -6955360661361928011
+    second: ModelZX_Slash_23
+  - first:
+      213: 1313320314319035232
+    second: ModelZX_Slash_24
+  - first:
+      213: 7877346653320561170
+    second: ModelZX_Slash_25
+  - first:
+      213: -7113536547912973385
+    second: ModelZX_Slash_26
+  - first:
+      213: 7843600430469658786
+    second: ModelZX_Slash_27
+  - first:
+      213: 4359692619285972105
+    second: ModelZX_Slash_28
+  - first:
+      213: -7883781906110620264
+    second: ModelZX_Slash_29
+  - first:
+      213: 5467887854447259606
+    second: ModelZX_Slash_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ModelZX_Slash_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6a951b32adbc240800000000000000
+      internalID: 4813180473609660082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelZX_Slash_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e267620193f44440800000000000000
+      internalID: 4919324497131561696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelZX_Slash_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35c674cd9f542150800000000000000
+      internalID: 5846903347444368699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelZX_Slash_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf66d27eb4ce7f4b0800000000000000
+      internalID: -5406593016889776389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelZX_Slash_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242197b2529482af0800000000000000
+      internalID: -421006141167168958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelZX_Slash_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3488668450a6320800000000000000
+      internalID: 2551857947374797757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelZX_Slash_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01a07e4f8f5d88b0800000000000000
+      internalID: -5148353729913642738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelZX_Slash_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1039240650d1dbe30800000000000000
+      internalID: 4520801509876863745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelZX_Slash_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d335ecbe6fbae20800000000000000
+      internalID: 3363053039401516389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelZX_Slash_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3916840d4f8559430800000000000000
+      internalID: 3789032469991809427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelZX_Slash_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd77f1991c5ed700800000000000000
+      internalID: 566991867988114890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelZX_Slash_11
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 0
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390723f08f89f5d00800000000000000
+      internalID: 963657036454850707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelZX_Slash_12
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dcad605e14d9870800000000000000
+      internalID: 8691175307813244176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelZX_Slash_13
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 0
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e18f5bea07778210800000000000000
+      internalID: 1335166703320924648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelZX_Slash_14
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0dace90e192e17e0800000000000000
+      internalID: -1792950392654615282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelZX_Slash_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5d85a4cd94d1930800000000000000
+      internalID: 4115526844975470050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelZX_Slash_16
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34146f6191a22f360800000000000000
+      internalID: 7201865041366630723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelZX_Slash_17
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 0
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f739f6c000e0b720800000000000000
+      internalID: 2860032057323108341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelZX_Slash_18
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb47536cff4ee7190800000000000000
+      internalID: -7962675303951272769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelZX_Slash_19
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 0
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2c4671049b83e70800000000000000
+      internalID: 9095223132396241652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelZX_Slash_20
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71677cb99be7de40800000000000000
+      internalID: 5681268500475634044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelZX_Slash_21
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc81a750ef7eb6e0800000000000000
+      internalID: -1819876597891494710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelZX_Slash_22
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 0
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9ce5ef3b69652a0800000000000000
+      internalID: -6749041291757172239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelZX_Slash_23
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 0
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8dbce5458997f90800000000000000
+      internalID: -6955360661361928011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelZX_Slash_24
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b5a4b1ed9d93210800000000000000
+      internalID: 1313320314319035232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelZX_Slash_25
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212c8c39b05f15d60800000000000000
+      internalID: 7877346653320561170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelZX_Slash_26
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 0
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b383e4e234a74d90800000000000000
+      internalID: -7113536547912973385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelZX_Slash_27
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8be3ac8011adc60800000000000000
+      internalID: 7843600430469658786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelZX_Slash_28
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 0
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984ce6ea65db08c30800000000000000
+      internalID: 4359692619285972105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelZX_Slash_29
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 0
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ddf9f502e279290800000000000000
+      internalID: -7883781906110620264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelZX_Slash_30
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df60049807d1eb40800000000000000
+      internalID: 5467887854447259606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModelZX_Slash_31
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 0
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fec3ec83b67b9c30800000000000000
+      internalID: 4367214777200791286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
